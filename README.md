@@ -1,1 +1,3 @@
 # DuckTales
+
+Scrooge McDuck
